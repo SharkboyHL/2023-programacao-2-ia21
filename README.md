@@ -10,10 +10,10 @@ Clique e Generate Token
 Anote o Token Gerado em um local seguro
 
 # Passo 2
-git clone http://TOKEN@github.com/USUARIO/REPOSITORIO 
-git add --all
-git commit -m "MENSAGEM"
-git push
+git clone http://TOKEN@github.com/USUARIO/REPOSITORIO; 
+git add --all;
+git commit -m "MENSAGEM";
+git push;
 
 # Passo 3
 git pull
