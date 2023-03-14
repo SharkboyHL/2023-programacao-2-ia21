@@ -3,8 +3,6 @@ header, main{
     margin: 0 auto;
 }
 
-
-
 header{
     border: 1px solid black;
     display: flex;
@@ -27,4 +25,12 @@ main div.container{
 main div.container span{
     display: inline-block;
     flex-grow: 1;
+}
+
+button{
+    border: 1px solid #000000;
+}
+
+:focus{
+    background-color: #1abc9c;
 }
