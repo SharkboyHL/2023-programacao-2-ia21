@@ -1,0 +1,6 @@
+POST http://sharkboyhl-fuzzy-space-yodel-r597w7www9xhwjw9-8080.preview.app.github.dev/tarefa HTTP/1.1
+content-type: application/json
+
+{
+  "texto": "ir ao mercado"
+}
